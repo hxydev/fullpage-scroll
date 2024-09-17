@@ -1,0 +1,18 @@
+{
+  "name": "@xy.dev/fullpage-scroll",
+  "version": "0.0.1",
+  "description": "A simple and lightweight JavaScript library for section scrolling.",
+  "main": "fullpageScroll.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "hxydev",
+  "license": "ISC",
+  "repository": {
+  "type": "git",
+  "url": "https://github.com/hxydev/fullpage-scroll"
+  },
+  "bugs": {
+    "url": "https://github.com/hxydev/fullpage-scroll/issues"
+  }
+}
