@@ -3,7 +3,7 @@
   "publishConfig": {
     "access": "public"
   },
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "A simple and lightweight JavaScript library for section scrolling.",
   "main": "fullpageScroll.js",
   "scripts": {
@@ -12,8 +12,8 @@
   "author": "hxydev",
   "license": "ISC",
   "repository": {
-  "type": "git",
-  "url": "https://github.com/hxydev/fullpage-scroll"
+    "type": "git",
+    "url": "https://github.com/hxydev/fullpage-scroll"
   },
   "bugs": {
     "url": "https://github.com/hxydev/fullpage-scroll/issues"
