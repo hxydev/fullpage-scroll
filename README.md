@@ -1,10 +1,10 @@
-# section-scroll
+# fullpage-scroll
 
-A simple and lightweight JavaScript library for section scrolling.
+A simple and lightweight JavaScript library for fullpage scrolling.
 
 ### Install
 ```
-npm install @xy.dev/section-scroll@0.0.1
+npm install @xy.dev/fullpage-scroll@0.0.1
 ```
 
 ### Usage
