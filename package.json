@@ -1,5 +1,8 @@
 {
   "name": "@xy.dev/fullpage-scroll",
+  "publishConfig": {
+    "access": "public"
+  },
   "version": "0.0.1",
   "description": "A simple and lightweight JavaScript library for section scrolling.",
   "main": "fullpageScroll.js",
