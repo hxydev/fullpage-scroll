@@ -41,16 +41,18 @@ class FullPageScroll {
   }
 
   scrollToSection() {
-    window?.scrollTo({
-      top: this.sections[this.currentSection].offsetTop,
-      behavior: 'smooth',
+    requestAnimationFrame(() => {
+      window.scrollTo({
+        top: this.sections[this.currentSection].offsetTop,
+        behavior: 'smooth'
+      });
     });
   }
 
   setScrollTimeout() {
     this.scrollTimeout = setTimeout(() => {
       this.scrollTimeout = null;
-    }, 100);
+    }, 1000);
   }
 }
 
